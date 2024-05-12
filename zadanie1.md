@@ -2,7 +2,7 @@ a)
 docker build -t zad1:v1.8 .
 
 b)
-docker run -p 3000:3000 -d --name zadanie1 zad1:v1.7
+docker run -p 3000:3000 -d --name zadanie1 zad1:v1.8
 
 c)
 docker logs zadanie1
